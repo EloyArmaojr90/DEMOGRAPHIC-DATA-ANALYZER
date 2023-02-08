@@ -43,7 +43,7 @@ Use the starter code in the file demographic_data_analyzer. Update the code so a
 
 More information can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographnalyzeric-data-a
 
-## **Librerías usadas**
+## **Used libraries**
 
 + Pandas
 
